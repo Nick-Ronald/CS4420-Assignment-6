@@ -19,7 +19,8 @@ Once compiled, run the program with `./<executable_name>`
 # Running Program
 
 <img width="590" height="860" alt="image" src="https://github.com/user-attachments/assets/5b26c274-d206-4201-9bb7-923db4215eef" />
-<img width="384" height="920" alt="image" src="https://github.com/user-attachments/assets/6cd03171-0ca6-40d4-a046-da0fc65d50ab" />
+<img width="320" height="1016" alt="image" src="https://github.com/user-attachments/assets/2c73c967-4f0e-40a7-9c8c-28fcc0e3fe0b" />
+
 
 
 
